@@ -1,2 +1,2 @@
-# Recursion-factorial
+# Recursion
 Factorial of a number using Recursion
