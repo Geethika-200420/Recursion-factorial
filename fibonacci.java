@@ -1,4 +1,4 @@
-public class RecursionDemo1{
+public class fibonacci{
     static int fibonacci(int n){
         if(n==0){
             return 0;
